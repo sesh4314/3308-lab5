@@ -1,7 +1,7 @@
 CSCI3302 Lab5 log:
 
 3. 
-> git clone https://github.com/sesh4314/3308-lab5
+> git clone https://github.com/sesh4314/3308-lab5.git
 
 4. 
 > git add README
@@ -39,3 +39,35 @@ CSCI3302 Lab5 log:
 
 14.
 > git push --all origin
+
+17.
+> git clone https://gitub.com/miyo6032/TestRepository.git
+
+19.
+> git add README.txt
+> git commit -m "Partner changes in REDME.txt"
+
+20.
+> git push
+
+22.
+> git checkout master
+
+24.
+> git add README
+> git commit -m "Added line from #23 to README"
+
+26.
+> git pull
+
+27.
+Resolution in screenshots
+
+28.
+> git add README
+
+29.
+The merge resolution is shown in the screenshots. I used vim to resolve the conflict.
+
+30.
+> git push
