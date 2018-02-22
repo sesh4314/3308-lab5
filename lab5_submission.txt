@@ -17,4 +17,25 @@ CSCI3302 Lab5 log:
 > git push origin v0.0.1
 
 8.
-> 
+> git checkout -b testing-new-files
+
+9.
+> git add -A
+> git commit -m "New files for testing-new-files branch"
+
+10.
+> git checkout master
+
+11.
+*edited file1.txt
+> git add file1.txt
+> git commit -m "Edited file1.txt for #11"
+
+12.
+> git merge testing-new-files
+
+13.
+> git checkout master
+
+14.
+> git push --all origin
