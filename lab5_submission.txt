@@ -60,14 +60,11 @@ CSCI3302 Lab5 log:
 26.
 > git pull
 
-27.
-Resolution in screenshots
-
 28.
 > git add README
 
 29.
-The merge resolution is shown in the screenshots. I used vim to resolve the conflict.
+Shown in screenshot
 
 30.
 > git push
