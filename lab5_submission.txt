@@ -1,5 +1,10 @@
 CSCI3302 Lab5 log:
 
+Github IDs--
+Sean Shaifubahrim: sesh4314
+Michael Yoshimura: miyo6032
+
+
 3. 
 > git clone https://github.com/sesh4314/3308-lab5.git
 
